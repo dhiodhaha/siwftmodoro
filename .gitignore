@@ -1,0 +1,35 @@
+# Build artifacts
+.build/
+Build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+*.idea/
+*.vscode/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Archives
+*.zip
+*.tar.gz
